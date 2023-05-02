@@ -1,0 +1,29 @@
+# WP4: Data publishing and communication
+
+:::{.callout-note}
+
+## Goal: Increase reach and impact of data by making it citable and creating data communication products
+
+**RQ 4.1:** How does engagement with, and citation of data, increase by providing it following FAIR principles for data sharing and providing user-friendly mechanisms for discovery?
+
+**Activity 4.1:** Publish GitHub repository containing data and code in general-purpose long-term archiving repository Zenodo.
+
+**Activity 4.2:** Prepare data communication products using published data to generate new insights and results.
+
+**Activity 4.3:** Prepare R Data Packages for published data sets with the most promising reuse potential
+
+**Activity 4.4:** Aggregate published data sets into websites that are data warehouses and data catalogues
+
+:::
+
+<!--#  Text from proposal
+
+Where WP2 ensures that data is shared and WP3 brings it into an analysis-ready format, WP4 adds the layer of data publishing and communication. We understand data publishing as archiving of data in a long-term repository with curated metadata verified by the community [@tierney2020realistic], and data communication as the process of using analysis-ready data generate new insights and communicating them through articles, presentations, interactive documents, websites, and books. Once again, community members that have become “data sharers” and “data cleaners” can become “data publishers and communicators” to learn the final steps of the process of making their data accessible following FAIR data principles [@wilkinson2016fair].
+
+The GitHub repository that was created for the individual data set is archived and published on Zenodo, a general-purpose open repository operated by CERN and recommended by the the Swiss National Science Foundation (SNSF) as a data repository for long-term archiving and for making it citeable [@swissnationalsciencefoundationsnsfopen]. The publication process is straight-forward as Zenodo has a GitHub integration and the required documentation and metadata has already been generated as part of WP2.
+
+To highlight the potential of publishing analysis-ready data openly, we will use the quarto framework to produce websites that highlight the research products. The use of quarto allows others to apply their knowledge within the R programming language that we teach, but also with Python, Julia, and Observable (JavaScript), making this the most inclusive and comprehensive data communication framework that exists.
+
+The project aims to produce several websites, but at least, a (1) Global Health Engineering data warehouse, which highlights self-archived publications, data, notebooks, and further analysis, (2) openwashdata data catalogue, which provides a website with a searchable table of all data sets that are submitted, cleaned, and published by the openwashdata community. (3) R Data Packages and Research Compendia for the most promising data sets that were published [@marwick2018packaging].
+
+-->

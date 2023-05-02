@@ -1,0 +1,37 @@
+# WP2: Data sharing
+
+:::{.callout-note}
+
+## Goal: Solicit and receive interest in providing data to be published openly; develop an easy-to-use data-collection protocol and tool; receive data from interested partners.
+
+**RQ 2.1:** What are the factors that predict willingness to share data and/or engage in self-directed data sharing
+
+**Activity 2.1:** Create a GitHub repository template for submission of data, and documentation and metadata that follows general ORD standards.
+
+**Engagement 2.1:** Watch video/ read documentation outlining data submission procedure
+
+**Activity 2.2:** Reach out to participants identified in WP1 as well as pre-identified colleagues who have, but have not made their research data open
+
+**Engagement 2.2.1:** Submit data unassisted.
+
+**Engagement 2.2.3:** Engage with program team to assist with submission
+
+**RQ 2.2:** What are the observed and stated challenges associated with transferring data to a GitHub repository?
+
+**Activity 2.2:** Produce a suite of learning materials (videos tutorials, printed instructions, support-group platorms, Wikis) that enable interested parties to easily share research data
+
+:::
+
+<!--#  Text from proposal
+
+In WP2, we will identify community members that are open to share their data with the community to become "Data sharers". We established the openwashdata GitHub organisation with a GitHub repository template (<https://github.com/openwashdata/openwashdata>) as the entry point for data submission.
+
+As a first activity, contributors will create an account on <https://github.com> and will share their GitHub username with the project team who will add them to the openwashdata GitHub organisation. The project team will then use the openwashdata template to create a new public repository in the openwashdata GitHub organisation with push access to the GitHub username of the contributor. The contributor uses the GitHub Graphical User Interface (GUI) to add their raw data to the `~/openwashdata/data/raw_data/` directory and commit the changes to capture their submission as a contribution to the repository. As another activity, they are asked to create a persistent digital identifier on <https://orcid.org/> (an ORCID iD) and add their family names, given names, and ORCID iD to the CITATION.CFF in the root directory by editing the file using the GitHub GUI.
+
+These are the minimum required steps to contribute data to the community. Instead of receiving data by email, we ensure that contributors are exposed to version control and collaboration with GitHub and introduce the topic of open and reproducible workflows as an importance ORD practice [@beckman2021implementing]. We also ensure that each contributor can be credited for their submission appropriately downstream of the data sharing.
+
+The highly technical nature of the industry standard reproducibility tools presents challenges for novices. Therefore, we will use applied examples, guided instructions and lots of practice to teach reproducibility as part of the data sharing process [@ostblom2021opinionated].
+
+Data will be shared come by community members engaged in WP1 as well as from pre-identified sources. First, the unpublished GHE data is not currently accessible. Second, the data that was generated during Prof. E. Tilley’s 5-year tenure at the University of Malawi, Blantyre. As a research group within the ETH domain Eawag/Sandec's research produces scientific knowledge that is paramount for the WASH sector. However, until this point none of this research has followed ORD practices and little of the highly valuable data that is generated as part of projects is published. As both applicants have previously worked at Eawag/Sandec and have long lasting partnerships, we will engage with current and former Eawag/Sandec colleagues as a third source of guaranteed data for this WP.
+
+-->

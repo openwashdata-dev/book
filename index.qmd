@@ -1,9 +1,3 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
-```
+This is a book accompanying the openwashdata project. The book documents the research questions and activities that were prepared for the [proposal to the Open Research Data Program of the ETH Board](https://github.com/openwashdata/proposal-eth-ord-scheme).

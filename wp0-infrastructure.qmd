@@ -1,6 +1,7 @@
 # WP0: Infrastructure Design and Installation
 
-::: callout-note
+:::{.callout-note}
+
 ## Goal: The Goal of WP0 is to prototype a technical foundation for the ORD toolchain at ETH in a a way that allows teaching and scientific collaboration to continue beyond the explore project's funding.
 
 **RQ 0.1:** What are the costs and requirements for ORD tools to be hosted and maintained within the ETH domain?

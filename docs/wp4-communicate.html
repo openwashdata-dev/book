@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>book - References</title>
+<title>book - 6&nbsp; WP4: Data publishing and communication</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,25 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}
 </style>
 
 
@@ -49,7 +30,8 @@ div.csl-indent {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./wp4-communicate.html" rel="prev">
+<link href="./references.html" rel="next">
+<link href="./wp3-clean.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -98,7 +80,7 @@ div.csl-indent {
     </nav>
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">References</h1>
+      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">WP4: Data publishing and communication</span></h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -148,12 +130,12 @@ div.csl-indent {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./wp4-communicate.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">WP4: Data publishing and communication</span></a>
+  <a href="./wp4-communicate.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">WP4: Data publishing and communication</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./references.html" class="sidebar-item-text sidebar-link active">References</a>
+  <a href="./references.html" class="sidebar-item-text sidebar-link">References</a>
   </div>
 </li>
     </ul>
@@ -168,7 +150,7 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">References</h1>
+<h1 class="title d-none d-lg-block"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">WP4: Data publishing and communication</span></h1>
 </div>
 
 
@@ -183,8 +165,35 @@ div.csl-indent {
 
 </header>
 
+<div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Goal: Increase reach and impact of data by making it citable and creating data communication products
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>RQ 4.1:</strong> How does engagement with, and citation of data, increase by providing it following FAIR principles for data sharing and providing user-friendly mechanisms for discovery?</p>
+<p><strong>Activity 4.1:</strong> Publish GitHub repository containing data and code in general-purpose long-term archiving repository Zenodo.</p>
+<p><strong>Activity 4.2:</strong> Prepare data communication products using published data to generate new insights and results.</p>
+<p><strong>Activity 4.3:</strong> Prepare R Data Packages for published data sets with the most promising reuse potential</p>
+<p><strong>Activity 4.4:</strong> Aggregate published data sets into websites that are data warehouses and data catalogues</p>
+</div>
+</div>
 
+<!--#  Text from proposal
 
+Where WP2 ensures that data is shared and WP3 brings it into an analysis-ready format, WP4 adds the layer of data publishing and communication. We understand data publishing as archiving of data in a long-term repository with curated metadata verified by the community [@tierney2020realistic], and data communication as the process of using analysis-ready data generate new insights and communicating them through articles, presentations, interactive documents, websites, and books. Once again, community members that have become “data sharers” and “data cleaners” can become “data publishers and communicators” to learn the final steps of the process of making their data accessible following FAIR data principles [@wilkinson2016fair].
+
+The GitHub repository that was created for the individual data set is archived and published on Zenodo, a general-purpose open repository operated by CERN and recommended by the the Swiss National Science Foundation (SNSF) as a data repository for long-term archiving and for making it citeable [@swissnationalsciencefoundationsnsfopen]. The publication process is straight-forward as Zenodo has a GitHub integration and the required documentation and metadata has already been generated as part of WP2.
+
+To highlight the potential of publishing analysis-ready data openly, we will use the quarto framework to produce websites that highlight the research products. The use of quarto allows others to apply their knowledge within the R programming language that we teach, but also with Python, Julia, and Observable (JavaScript), making this the most inclusive and comprehensive data communication framework that exists.
+
+The project aims to produce several websites, but at least, a (1) Global Health Engineering data warehouse, which highlights self-archived publications, data, notebooks, and further analysis, (2) openwashdata data catalogue, which provides a website with a searchable table of all data sets that are submitted, cleaned, and published by the openwashdata community. (3) R Data Packages and Research Compendia for the most promising data sets that were published [@marwick2018packaging].
+
+-->
 
 
 
@@ -324,11 +333,14 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./wp4-communicate.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">WP4: Data publishing and communication</span></span>
+      <a href="./wp3-clean.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">WP3: Data cleaning</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
+      <a href="./references.html" class="pagination-link">
+        <span class="nav-page-text">References</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
   </div>
 </nav>
 </div> <!-- /content -->

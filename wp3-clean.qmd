@@ -1,0 +1,43 @@
+# WP3: Data cleaning
+
+:::{.callout-note}
+
+## Goal: Facilitate user-directed data cleaning (including documentation and metadata) to produce a first set of analysis-ready open data sets
+
+**RQ 3.1:** What is the interest of openwashdata community members to contribute to data cleaning activities?
+
+**Activity 3.1:** Invite and encourage openwashdata community members to contribute to data cleaning activities.
+
+**Engagement 3.1:** Read email, post, message and click to find information about the data cleaning activities
+
+**RQ 3.2:** What are the most common and most difficult-to-remedy data cleaning issues among openwashdata community members?
+
+**Activity 3.2:** Categorise provided data sources into rubrics of “effort for cleaning” and “impact of clean data” to prioritise which data to invest in first.
+
+**RQ 3.3:** What is the program adherence rate among openwashdata community members between previous WPs and WP3; and between the different modes of engagement within WP3?
+
+**Activity 3.3:** Teach a 7-week synchronous online course (3 hours per week) for openwashdata community members to learn the competencies needed to clean submitted data.
+
+**Engagement 3.3.1:** Attend at least one week of training
+
+**Engagement 3.3.2:** Complete all 7 weeks of the online course
+
+**Activity 3.4:** Host two online hackathons where selected data sets are cleaned by participants.
+
+**Engagement 3.4:** Attend a hackathon
+
+**Activity 3.5:** Host a 2-day workshop in-person workshop at a sector relevant conference with an element of capacity building
+
+Engagement 3.5: Attend 2-day workshop
+
+:::
+
+<!--#  Text from proposal
+
+The journey for a "Data sharer" which started in WP2 can end there or continue into the role of a "Data cleaner" that actively supports WP3 either by using their data cleaning competencies (e.g. hired Research Assisstant) or by obtaining the competencies after participating in the learning events offered as part of this WP3. At this stage, other community members can also become "Data cleaners" without having submitted their own data in WP2.
+
+As submitted data will vary in its effort to clean and the perceived impact of clean data, we will categorise the submitted datasets and use a decision support mechanism to decide which data sets are prioritized for data cleaning. Shared data will largely be unstructured and we will follow advice by [@tierney2020realistic] who suggest a minimal structure to share data for analysis. The GitHub repositories created from the template as part of WP2 will be used at this stage to add documentation and metadata in the form of machine-readable codebooks describing each data file. The project consortium brings in the expertise of the swissdata project, which aims at improving the machine readability of publicly available data (<https://github.com/swissdata/demo>) which follows similar goals to this project. We will use open material to teach open standards commonly used for reproducibility [@community2019turing] and established guides to build a better basis for formatting data in spreadsheets [@broman2018data] and how to get them ready for sharing [@ellis2018how].
+
+Data cleaning processes will make up a large part of the workload for this project. Without the support of the community, it will be unfeasible to clean all submitted data sets within its duration. Rather than ticking a box next to a number for cleaned datasets, our goal is to motivate the community to engage in the data cleaning processes themselves. We do that through teaching activities, such as a free 7-week online course, hackathons, and workshops at conferences. These teaching activities will provide community members with the necessary competencies to clean data themselves and we will have enough resources from WP2 to use as examples. Beyond this, we hope to create enough interest in the value of the collected data sets to also engage with the greater reproducibility communities and R user groups in Switzerland (e.g. Swiss Reproducibility Network) and internationally (ReproHack, R4DS Community, AfricaR R user group, R-Ladies, Minority R Users, The Turing Way, etc.).
+
+-->

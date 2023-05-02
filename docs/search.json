@@ -4,27 +4,69 @@
     "href": "index.html",
     "title": "book",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "Preface\nThis is a book accompanying the openwashdata project. The book documents the research questions and activities that were prepared for the proposal to the Open Research Data Program of the ETH Board."
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "learner-personas.html",
+    "href": "learner-personas.html",
+    "title": "1  Learner personas",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Our proposal is not only open to all research disciplines, thematic areas, geographical locations, and levels of expertise with respect to data literacy, computational competencies, or statistics knowledge, but we encourage and rely on diversity. To illustrate they diversity we expect, we have designed four learner personas (Table 1). Writing learner personas for teaching programming is a concept established by (wilson2019teaching?) and is a crucial step in understanding the needs and expectations of the participants.\n\n\nTable 1.1: ?(caption)\n\n\n\n\n(a) Overview of learner personas designed for openwashdata community.\n\n\n\n\n\n\n\n\n\npersona\nin brief\ndomain knowledge\nprogramming knowledge\ncontribution motivation\n\n\n\n\nPalesa\nPit emptying business owner that is tired of others asking her for her business data.\ncompetent\nnovice\nlow\n\n\nYua\nPhD student that wants to use her programming expertise to support the community.\nnovice\nexpert\nhigh\n\n\nMandla\nMaster’s student who wants to learn how to use R for data analysis and git version control.\ncompetent\ncompetent\nhigh\n\n\nAsim\nSenior Researcher with a few years left to retirement who wants to share his career’s worth of data with as little effort as possible.\nexpert\nnovice\nlow\n\n\n\n\n\n\nPalesa is leading a pit latrine emptying business with 20 employees and 6 vacuum trucks in Lusaka, Zambia. She has finished high school and did an apprenticeship in business administration. She is also a representative for the Sanitation Workers Association of Sub-Saharan Africa. She knows how to setup a data table using spreadsheet based software. She tracks all her business information using this software, but has never had any formal introduction into data organisation in spreadsheets. When asked to share to data, she shares the relevant worksheet by email. She is constantly approached by researchers, consultants, and public servants about sharing data on the amounts of types of faecal sludge removed from sanitation systems. While she is willing to share information, she is frustrated by and tired of follow up questions and the number of requests. She wants to learn how to give people access to her data at a central location, so that everyone can access the data from there. She is building a house for her family of five with the revenues of her business. She juggling many responsibilities and does not have any time to participate in formal training.\nYua is a Japanese PhD student in Computer Science at ETH Zurich. She is an active contributor to open source software packages and has a passiong for Open Science principles. She is proficient in half a dozen programming languages and uses R and Python for Data Science tasks. She has an R package for data visualisation on GitHub, which has received more than 500 stars. Her best friend works in the WASH sector and she has learned a fair bit about it. Her great experience and expertise in data cleaning enable her to decode data structures with minimal metadata. She wants use her technical skills to contribute to open communities and use her experience to support others in becoming more proficient in using computational tools. The openwashdata community provides the ideal starting point for her to do that. She also hopes to use the wealth of data that is opened by the community to advance her Computer Science PhD research on barriers to computational reproducibility. She is introverted and prefers to communicate with people online.\nMandla is in his final year of a Master of Science in Urban Planning at Makerere University in Kampala, Uganda. He is supporting Senior Researchers at the university in data collection for WASH related projects and is highly motivated to learn modern data science tools for his data analysis tasks. He did well in his high school math classes, and has watched some free online courses on using R for data analysis. He is struggling with file management and has recently lost three months’ worth of data, as his hard drive was corrupted. He knows that there is a better way to analyse and manage data, but he hasn’t found the right material and motivation that teaches him the tools that he needs. He wants to participate in 12-week course that teaches him the foundational knowledge and wants to apply the learned skills to support the openwashdata community in their mission to publish open data. He doesn’t have money to buy a laptop. He uses the infrastructure at the university, but during the recent student strike at the university the computer lab was damaged and is currently closed.\nAsim has been working at a research institute in Aachen, Germany for 25 years. He holds a PhD and is a group leader with a focus on solid waste management research. Throughout his career, he has supported more than 100 students and research assistants in their early career research stages. He has never written a line of code, but is highly proficient in using MS Excel. He has a particular fear to share data with other researchers or alongside journal publications, because he believes that others could judge his practices or may even use his data to write their own publications. He is very particular about workflows, file and data management. During the offboarding process of each employee, he has ensured that generated research data stored on a long-term archive server, following his guidelines for directory structure and documentation. He wants to share this data with the openwashcommunity under the condition that he and every researcher that was involved in creating the data gets appropriate credit for their work. He has three more years until retirement is reluctant to learn any new tools and feels very uncomfortable with anything outside his normal working environment. He needs someone to show him step by step how to share he research data with the community."
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+    "objectID": "wp0-infrastructure.html#research-question-0.1",
+    "href": "wp0-infrastructure.html#research-question-0.1",
+    "title": "2  WP0: Infrastructure Design and Installation",
+    "section": "2.1 Research Question 0.1",
+    "text": "2.1 Research Question 0.1"
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
+    "objectID": "wp0-infrastructure.html#activity-0.1",
+    "href": "wp0-infrastructure.html#activity-0.1",
+    "title": "2  WP0: Infrastructure Design and Installation",
+    "section": "2.2 Activity 0.1",
+    "text": "2.2 Activity 0.1"
+  },
+  {
+    "objectID": "wp0-infrastructure.html#activity-0.2",
+    "href": "wp0-infrastructure.html#activity-0.2",
+    "title": "2  WP0: Infrastructure Design and Installation",
+    "section": "2.3 Activity 0.2",
+    "text": "2.3 Activity 0.2"
+  },
+  {
+    "objectID": "wp0-infrastructure.html#activity-0.3",
+    "href": "wp0-infrastructure.html#activity-0.3",
+    "title": "2  WP0: Infrastructure Design and Installation",
+    "section": "2.4 Activity 0.3",
+    "text": "2.4 Activity 0.3"
+  },
+  {
+    "objectID": "wp1-mobilize.html",
+    "href": "wp1-mobilize.html",
+    "title": "3  WP1: Mobilize Community",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "Goal: Create and grow an international network of data-curious practitioners and students who may be interested in pursuing one or more of the subsequent activities.\n\n\n\nRQ 1.1: What are the demographic and competence characteristics associated with engagement as a function of communication channel/format?\nActivity 1.1: Advertising the opportunities to contribute to the openwashdata community\nEngagement 1.1: Read email, post, message and click to find information about the openwashdata program\nRQ 1.2: What are the expressed and observed successes and challenges associated with live-coding events and how do these translate into program retention outcomes?\nActivity 1.2: Weekly live-coding event to engage early adopters and demonstrate the low-barrier of entry to the data-sceptical\nEngagement 1.2.1: Watch a live-coding event\nEngagement 1.2.2: Follow along live-coding event"
+  },
+  {
+    "objectID": "wp2-share.html",
+    "href": "wp2-share.html",
+    "title": "4  WP2: Data sharing",
+    "section": "",
+    "text": "Goal: Solicit and receive interest in providing data to be published openly; develop an easy-to-use data-collection protocol and tool; receive data from interested partners.\n\n\n\nRQ 2.1: What are the factors that predict willingness to share data and/or engage in self-directed data sharing\nActivity 2.1: Create a GitHub repository template for submission of data, and documentation and metadata that follows general ORD standards.\nEngagement 2.1: Watch video/ read documentation outlining data submission procedure\nActivity 2.2: Reach out to participants identified in WP1 as well as pre-identified colleagues who have, but have not made their research data open\nEngagement 2.2.1: Submit data unassisted.\nEngagement 2.2.3: Engage with program team to assist with submission\nRQ 2.2: What are the observed and stated challenges associated with transferring data to a GitHub repository?\nActivity 2.2: Produce a suite of learning materials (videos tutorials, printed instructions, support-group platorms, Wikis) that enable interested parties to easily share research data"
+  },
+  {
+    "objectID": "wp3-clean.html",
+    "href": "wp3-clean.html",
+    "title": "5  WP3: Data cleaning",
+    "section": "",
+    "text": "Goal: Facilitate user-directed data cleaning (including documentation and metadata) to produce a first set of analysis-ready open data sets\n\n\n\nRQ 3.1: What is the interest of openwashdata community members to contribute to data cleaning activities?\nActivity 3.1: Invite and encourage openwashdata community members to contribute to data cleaning activities.\nEngagement 3.1: Read email, post, message and click to find information about the data cleaning activities\nRQ 3.2: What are the most common and most difficult-to-remedy data cleaning issues among openwashdata community members?\nActivity 3.2: Categorise provided data sources into rubrics of “effort for cleaning” and “impact of clean data” to prioritise which data to invest in first.\nRQ 3.3: What is the program adherence rate among openwashdata community members between previous WPs and WP3; and between the different modes of engagement within WP3?\nActivity 3.3: Teach a 7-week synchronous online course (3 hours per week) for openwashdata community members to learn the competencies needed to clean submitted data.\nEngagement 3.3.1: Attend at least one week of training\nEngagement 3.3.2: Complete all 7 weeks of the online course\nActivity 3.4: Host two online hackathons where selected data sets are cleaned by participants.\nEngagement 3.4: Attend a hackathon\nActivity 3.5: Host a 2-day workshop in-person workshop at a sector relevant conference with an element of capacity building\nEngagement 3.5: Attend 2-day workshop"
+  },
+  {
+    "objectID": "wp4-communicate.html",
+    "href": "wp4-communicate.html",
+    "title": "6  WP4: Data publishing and communication",
+    "section": "",
+    "text": "Goal: Increase reach and impact of data by making it citable and creating data communication products\n\n\n\nRQ 4.1: How does engagement with, and citation of data, increase by providing it following FAIR principles for data sharing and providing user-friendly mechanisms for discovery?\nActivity 4.1: Publish GitHub repository containing data and code in general-purpose long-term archiving repository Zenodo.\nActivity 4.2: Prepare data communication products using published data to generate new insights and results.\nActivity 4.3: Prepare R Data Packages for published data sets with the most promising reuse potential\nActivity 4.4: Aggregate published data sets into websites that are data warehouses and data catalogues"
   }
 ]

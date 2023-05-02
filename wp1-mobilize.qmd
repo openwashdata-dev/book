@@ -1,0 +1,31 @@
+# WP1: Mobilize Community
+
+::: callout-note
+## Goal: Create and grow an international network of data-curious practitioners and students who may be interested in pursuing one or more of the subsequent activities.
+
+**RQ 1.1:** What are the demographic and competence characteristics associated with engagement as a function of communication channel/format?
+
+**Activity 1.1:** Advertising the opportunities to contribute to the openwashdata community
+
+**Engagement 1.1:** Read email, post, message and click to find information about the openwashdata program
+
+**RQ 1.2:** What are the expressed and observed successes and challenges associated with live-coding events and how do these translate into program retention outcomes?
+
+**Activity 1.2:** Weekly live-coding event to engage early adopters and demonstrate the low-barrier of entry to the data-sceptical
+
+**Engagement 1.2.1:** Watch a live-coding event
+
+**Engagement 1.2.2:** Follow along live-coding event
+:::
+
+<!--#  Text from proposal
+
+In WP1, we will mobilize WASH practitioners to join and contribute to the openwashdata community. Specifically, we will engage with our vast network of WASH students and professionals around the world by promoting the opportunity to a) learn more about open science tools and practices for improving the accessibility of their own work and, for the less engaged, b) offer the opportunity to publish their data in an open format. Although option a) is the more sustainable and preferable option, we recognize that the culture, tools, and terminology around data can be intimidating. We therefore hope to create as low a barrier to entry as possible, and hopefully, through small, consistent steps, move even the most reluctant, paper-loving researcher, through introductory steps, building their confidence and interest in the process.
+
+We will engage through social media, email lists, professional networks (combined 30 years’ experience in WASH) and the established communication tools (combined 30 years’ experience in WASH). We will advertise the opportunities available to become a data sharer, data cleaner, or data publisher and communicator , and how to gain recognition (through permanent Digital Object Identifiers), and improve ORD practices, which, we anticipate will be attractive to the broader network, in exactly that order.
+
+A weekly live coding stream using Twitch and Twitter will be one of our first entry points. Using the hashtags #TidyTuesday #openwashdata, we will advertise the weekly events in which an untidy (in our context unstructured data set) is shared and community members are challenged to tidy the dataset and produce visualisations and other data communication products. The live stream will use participatory live coding as a teaching technique, and participants can use the infrastructure provided (WP0: Prototyping ORD tools) to follow along the live coding [@brown2018ten; @nederbragt2020ten]. These events are not designed to convert die-hard pen-and-paper practitioners into GitHub stars; rather, they are an opportunity to create low-stress environments for learning (no testing, no need to show results), identify community leaders who want to take on a more important role in dissemination, and share the magic of a well-structured data set.
+
+There is an increasing understanding of the relevance of communities for open science and teaching [@azevedo2021culture] and we can see an increased pace at which they are being started for academics [@auer2021communityled; @button2020grassroots; @kathawalla2020easing]. As active members of these communities, we will leverage the materials and experiences that already exist to build the openwashdata community. We will contribute back by sharing our experiences with the communities through open channels (blogs, communication tools, open access journals).
+
+-->
