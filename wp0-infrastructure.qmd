@@ -10,6 +10,23 @@
 
 **Activity 0.2:** Evaluate the advantages and disadvantages of three open source tools for communication (Slack, Discord, Matrix Protocol)
 
+To facilitate communication in a variety of contexts such as online support for dataset submission, teaching or scholarly writing is of the most important tasks of the technical ecosystem of openwashdata. 
+In order document our decision for the *matrix* network for secure, decentralized communication, let us understand first why a chat is such an important form of communication for our project.
+Chat platforms allow to organize discussions very dynamically in rooms, channels or topics as well as peer to peer communication. 
+Communication works well in async situations, similar to message boards and issue trackers.
+At the same chats allow for dynamic live discussions in groups or peer-to-peer.  
+The ability to present data as well as source code in visually appealing fashion is a strong advantage over, e.g., e-mail for our project. 
+
+While the per user pricing models of software-as-a-service (SaaS) providers like Slack or Discord allow to use all of the above features without thinking of operating an own server, the underlying software is not open source nor do we have control over the data. 
+Given the crucial role of a chat platform, especially when an openwashdata community has been established, these shortcomings of a SaaS solutions weigh heavy in our case. 
+Fortunately, ETH Zurich operates a so-called homeserver for the *matrix* network.
+This allows staff members and students to join internal as well as global chat rooms on the matrix network. 
+In addition, users from other organizations' home servers can join chat spaces linked to the ETH upon invite. 
+Using ETH matrix server we can even expose certain rooms publicly, so that they can be found on a global matrix channels catalog. 
+Thanks to ETH' contribution to the matrix network we were able to choose a solution that fulfills all of our needs, enables us to connect to external collaborators, allows for control of all data and at the same time has virtually no operating costs for us. 
+While per user costs are not a short term issue when the user base is relatively small, such costs can hurt our goal to establish a community when seed funding expries and potentially hundreds of users have joined. 
+
+
 **Activity 0.3:** Compare hosting costs and technical overhead (maintenance) of RStudio Cloud by RStudio PBC with Virtual Machines hosted at ETH Zurich.
 :::
 
